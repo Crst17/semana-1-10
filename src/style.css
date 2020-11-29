@@ -110,13 +110,14 @@ img {
   }
   
   .banner-img {
-    background-image: url(https://images.pexels.com/photos/3153201/pexels-photo-3153201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-image: url("img/bimg.jpeg");
     height: 10rem;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
+  
   
   .profile-img {
     width: 100px;
