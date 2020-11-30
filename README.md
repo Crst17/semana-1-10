@@ -2,6 +2,7 @@
 Repositorio Sprint 1 - MinTIC
 
 # Proyecto final Sprint I
+gi# Proyecto final Sprint I
 
 Desarrollar un sitio web que conste de 5 secciones, cada sección deberá ser realizada por un estudiante. Los diferentes elementos del sitio web contarán con estilos personalizados creados por los estudiantes y deberán estar condensados en una sola hoja de estilos.
 
